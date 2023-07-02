@@ -1,0 +1,15 @@
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.exe
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.deps.json
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.runtimeconfig.json
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.dll
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.pdb
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.csproj.AssemblyReference.cache
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.AssemblyInfoInputs.cache
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.AssemblyInfo.cs
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.csproj.CoreCompileInputs.cache
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.dll
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\refint\ProjetoEstacionamento.dll
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.pdb
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.genruntimeconfig.cache
+D:\dio\.NET\Fundamentos do .NET\ProjetoEstacionamento\obj\Debug\net7.0\ref\ProjetoEstacionamento.dll

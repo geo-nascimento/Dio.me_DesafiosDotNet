@@ -1,0 +1,15 @@
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\bin\Debug\net7.0\03_AbstraindoCelular.exe
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\bin\Debug\net7.0\03_AbstraindoCelular.deps.json
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\bin\Debug\net7.0\03_AbstraindoCelular.runtimeconfig.json
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\bin\Debug\net7.0\03_AbstraindoCelular.dll
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\bin\Debug\net7.0\03_AbstraindoCelular.pdb
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\03_AbstraindoCelular.csproj.AssemblyReference.cache
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\03_AbstraindoCelular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\03_AbstraindoCelular.AssemblyInfoInputs.cache
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\03_AbstraindoCelular.AssemblyInfo.cs
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\03_AbstraindoCelular.csproj.CoreCompileInputs.cache
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\03_AbstraindoCelular.dll
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\refint\03_AbstraindoCelular.dll
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\03_AbstraindoCelular.pdb
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\03_AbstraindoCelular.genruntimeconfig.cache
+D:\Cursos\dio\.NET\DesafiosDeProjeto\03_AbstraindoCelular\obj\Debug\net7.0\ref\03_AbstraindoCelular.dll

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\GerenciadorsDeTarefas.props" />
-</Project>

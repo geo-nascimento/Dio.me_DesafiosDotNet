@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XtTyeXeQZj5MsZE9tsk62ifxJJWXMQARI3OsmFVWnvpEWFWDExUuYS+1kYlc6BkvXMHdjwnbXTRn56Gl9DwPtA==",
+  "dgSpecHash": "ME5plAI4vu6Q/3xF66C/NjXgkfGDBr1gstI425dhNhykvlyumCri0bMBGdVrbtEaI7KAbtnk0zAxuvpsoxvp7w==",
   "success": true,
-  "projectFilePath": "D:\\Cursos\\dio\\.NET\\DesafiosDeProjeto_Dio\\07_TestesUnitarios\\Desafio_TestesUnitarios\\Testes\\Testes.csproj",
+  "projectFilePath": "D:\\Cursos\\dio\\.NET\\DesafiosDeProjeto_Dio\\07_TestesUnitarios\\Desafio_TestesUnitarios\\testes\\Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Georg\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Georg\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -1,91 +1,84 @@
 using DesafioTestesUnitarios.Services;
-using System.Collections.Generic;
 
-namespace Testes
+namespace Testes;
+
+public class ValidacoesListaTests
 {
-    public class ValidacoesListaTests
+    private ValidacoesLista _val = new ValidacoesLista();
+
+    [Fact]
+    public void DeveRemoverNumerosNegativosDeUmaLista()
     {
-        private ValidacoesLista _val;
+        var lista = new List<int> { -20, -14, 90, -23, 8, 50, -1 };
 
-        public ValidacoesListaTests(ValidacoesLista val)
-        {
-            _val = val;
-        }
+        var listaSemNegativos = _val.RemoverNumerosNegativos(lista);
 
-        [Fact]
-        public void DeveRemoverNumerosNegativosDeUmaLista()
-        {
-            var lista = new List<int> { 1, 2, 3, 4, 20, -20, -14, 90, -23, 8, 50, -1 };
-            
-            var listaSemNegativos = _val.RemoverNumerosNegativos(lista);
-            
-            var resultadoEsperado = new List<int> { 1, 2, 3, 4, 20, 90, 8, 50 };
+        var resultadoEsperado = new List<int> { 90, 8, 50 };
 
-            Assert.Equal(resultadoEsperado, listaSemNegativos);
-          
-        }
-        [Fact]
-        public void DeveConterNumero20NaLista()
-        {
-            var lista = new List<int> { 1, 2, 3, 4, 20, -20, -14, 90, -23, 8, 50, -1 };
-            var numero = 20;
-            var resultado = _val.ListaContemDeterminadoNumero(lista, numero);
+        Assert.Equal(resultadoEsperado, listaSemNegativos);
 
-            Assert.True(resultado);
-        }
+    }
+    [Fact]
+    public void DeveVerificarSeAListaContemONumero20ERetornarVerdadeiro()
+    {
+        var lista = new List<int> { 1, 2, 3, 4, 20, -20, -14, 90, -23, 8, 50, -1 };
+        var numero = 20;
+        var resultado = _val.ListaContemDeterminadoNumero(lista, numero);
 
-        [Fact]
-        public void NaoDeveConterONumero15NaLista()
-        {
-            var lista = new List<int> { 1, 2, 3, 4, 20, -20, -14, 90, -23, 8, 50, -1 };
+        Assert.True(resultado);
+    }
 
-            var numero = 15;
+    [Fact]
+    public void DeveVerificarSeONumero15EstaContidoNaListaERetornarFalso()
+    {
+        var lista = new List<int> { 1, 2, 3, 4, 20, -20, -14, 90, -23, 8, 50, -1 };
 
-            var resultado = _val.ListaContemDeterminadoNumero(lista, numero);
+        var numero = 15;
 
-            Assert.False(resultado);
-        }
+        var resultado = _val.ListaContemDeterminadoNumero(lista, numero);
 
-        [Fact]
-        public void DeveMultiplicarOsElementosDaListaPor2()
-        {
-            var lista = new List<int> { 2, 4, 5, 6 };
+        Assert.False(resultado);
+    }
 
-            var multiplicador = 2;
+    [Fact]
+    public void DeveMultiplicarOsElementosDaListaPor2()
+    {
+        var lista = new List<int> { 2, 4, 5, 6 };
 
-            var resultado = _val.MultiplicarNumerosLista(lista, multiplicador);
+        var multiplicador = 2;
 
-            var listaMultiplicadaPor2 = new List<int> { 4, 8, 10, 12 };
+        var resultado = _val.MultiplicarNumerosLista(lista, multiplicador);
 
-            Assert.Equal(listaMultiplicadaPor2, resultado);
+        var listaMultiplicadaPor2 = new List<int> { 4, 8, 10, 12 };
 
-            
-        }
-
-        [Fact]
-        public void DeveRetornar5ComoMenorNumero()
-        {
-            var lista = new List<int> { 5, 20, 90, 8, 50 };
-
-            var menor = 5;
-
-            var resultado = _val.RetornarMenorNumeroLista(lista);
-
-            Assert.Equal(menor, resultado);
-        }
-
-        [Fact]
-        public void DeveRetornar50ComoMaiorNumero()
-        {
-            var lista = new List<int> { 5, 20, 9, 8, 50 };
-
-            var maior = 50;
-
-            var resultado = _val.RetornarMaiorNumeroDaLista(lista);
-
-            Assert.Equal(maior, resultado);
-        }
+        Assert.Equal(listaMultiplicadaPor2, resultado);
 
 
     }
+
+    [Fact]
+    public void DeveRetornar5ComoMenorNumero()
+    {
+        var lista = new List<int> { 5, 20, 90, 8, 50 };
+
+        var menor = 5;
+
+        var resultado = _val.RetornarMenorNumeroLista(lista);
+
+        Assert.Equal(menor, resultado);
+    }
+
+    [Fact]
+    public void DeveRetornar50ComoMaiorNumero()
+    {
+        var lista = new List<int> { 5, 20, 9, 8, 50 };
+
+        var maior = 50;
+
+        var resultado = _val.RetornarMaiorNumeroDaLista(lista);
+
+        Assert.Equal(maior, resultado);
+    }
+
+
 }

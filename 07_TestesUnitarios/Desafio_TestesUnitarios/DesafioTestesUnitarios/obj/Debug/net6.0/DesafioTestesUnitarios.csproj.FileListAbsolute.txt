@@ -3,7 +3,6 @@ D:\Cursos\dio\.NET\DesafiosDeProjeto_Dio\07_TestesUnitarios\Desafio_TestesUnitar
 D:\Cursos\dio\.NET\DesafiosDeProjeto_Dio\07_TestesUnitarios\Desafio_TestesUnitarios\DesafioTestesUnitarios\bin\Debug\net6.0\DesafioTestesUnitarios.runtimeconfig.json
 D:\Cursos\dio\.NET\DesafiosDeProjeto_Dio\07_TestesUnitarios\Desafio_TestesUnitarios\DesafioTestesUnitarios\bin\Debug\net6.0\DesafioTestesUnitarios.dll
 D:\Cursos\dio\.NET\DesafiosDeProjeto_Dio\07_TestesUnitarios\Desafio_TestesUnitarios\DesafioTestesUnitarios\bin\Debug\net6.0\DesafioTestesUnitarios.pdb
-D:\Cursos\dio\.NET\DesafiosDeProjeto_Dio\07_TestesUnitarios\Desafio_TestesUnitarios\DesafioTestesUnitarios\obj\Debug\net6.0\DesafioTestesUnitarios.csproj.AssemblyReference.cache
 D:\Cursos\dio\.NET\DesafiosDeProjeto_Dio\07_TestesUnitarios\Desafio_TestesUnitarios\DesafioTestesUnitarios\obj\Debug\net6.0\DesafioTestesUnitarios.GeneratedMSBuildEditorConfig.editorconfig
 D:\Cursos\dio\.NET\DesafiosDeProjeto_Dio\07_TestesUnitarios\Desafio_TestesUnitarios\DesafioTestesUnitarios\obj\Debug\net6.0\DesafioTestesUnitarios.AssemblyInfoInputs.cache
 D:\Cursos\dio\.NET\DesafiosDeProjeto_Dio\07_TestesUnitarios\Desafio_TestesUnitarios\DesafioTestesUnitarios\obj\Debug\net6.0\DesafioTestesUnitarios.AssemblyInfo.cs
